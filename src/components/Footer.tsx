@@ -60,7 +60,7 @@ export function Footer() {
         </div>
 
         <div className="mt-14 flex flex-col gap-3 border-t border-border pt-6 text-xs text-muted-foreground sm:flex-row sm:items-center sm:justify-between">
-          <p>@ 2023 ByteSpace. All rights reserved.</p>
+          <p>@ 2025 ByteSpace. All rights reserved.</p>
           <div className="flex gap-6">
             <span>Privacy Policy</span>
             <span>Terms of Service</span>
