@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-BkSabwWG.js";import{t}from"./link-BBx7z2RV.js";var n=e(),r=()=>(0,n.jsxs)(`div`,{className:`p-16 text-center`,children:[(0,n.jsx)(`p`,{children:`Course not found.`}),(0,n.jsx)(t,{to:`/courses`,className:`text-primary underline`,children:`Browse courses`})]});export{r as notFoundComponent};

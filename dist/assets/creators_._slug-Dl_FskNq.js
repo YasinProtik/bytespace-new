@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-BkSabwWG.js";import{t}from"./link-BBx7z2RV.js";var n=e(),r=()=>(0,n.jsxs)(`div`,{className:`p-16 text-center`,children:[(0,n.jsx)(`p`,{children:`Creator not found.`}),(0,n.jsx)(t,{to:`/creators`,className:`text-primary underline`,children:`All creators`})]});export{r as notFoundComponent};
